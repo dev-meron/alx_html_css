@@ -1,0 +1,12 @@
+/* styles.css - custom styles for future creativity */
+
+/* Example: highlight headings */
+h1, h2 {
+    color: #2c3e50;
+}
+
+/* Example: style footer link */
+footer a {
+    color: #ffcc00;
+    text-decoration: underline;
+}
